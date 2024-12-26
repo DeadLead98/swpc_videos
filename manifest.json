@@ -1,0 +1,10 @@
+{
+  "domain": "solar_videos",
+  "name": "Solar Videos",
+  "version": "1.0.0",
+  "requirements": ["aiohttp"],
+  "dependencies": [],
+  "codeowners": ["@your_github_username"],  // Replace with your GitHub username
+  "config_flow": true,
+  "documentation": "https://github.com/your_github_username/solar_videos" //optional
+}
